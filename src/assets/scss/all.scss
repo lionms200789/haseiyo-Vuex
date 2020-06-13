@@ -1,0 +1,28 @@
+@import "~bootstrap/scss/functions";
+@import "./helpers/variables";
+@import "~bootstrap/scss/bootstrap";
+
+@import "./components/dashboard";
+@import "./components/login";
+@import "./components/LandingPage";
+@import "./components/CartPage";
+@import "./components/Order";
+@import "./components/Payment";
+@import "./components/ProductGallery";
+@import "./components/ProductDetail";
+@import "./components/Footer";
+@import "./components/Navbar";
+@import "./components/ProductCard";
+@import "./components/ShoppingBag";
+
+html {
+  touch-action: manipulation;
+}
+
+select,
+input,
+textarea {
+  @media (max-width: 992px) {
+    font-size: 16px;
+  }
+}
