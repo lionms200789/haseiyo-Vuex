@@ -1,5 +1,5 @@
 # 電商網站 - HaSeiYo
-> 此SPA專案為虛擬購物商店，銷售主題為男性服飾，並包含前台以及後台。
+> 此SPA專案作品為虛擬購物商店，銷售主題為男性服飾，並包含前台以及後台。
 
 ### 簡介
 
@@ -19,12 +19,13 @@
 
 ### DEMO 
 
-[HaSeiYo](https://lionms200789.github.io/haseiyo-SPA/#/)
+[HaSeiYo](https://lionms200789.github.io/haseiyo-Vuex/#/)
 
 ### 該專案使用了
 
 * Vue.js 
 * Vue CLI 
+* Vuex 集中式管理資料狀態
 * Vue Router 路由模擬
 * Bootstrap 4 
 * JavaScript (ES6、LocalStorage 等..)
@@ -37,3 +38,4 @@
 * Vue-axios 
 * VeeValidate
 * Vue-loading-overlay
+* Vue Awesome Swiper 
